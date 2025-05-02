@@ -25,7 +25,7 @@ This system allows hospital staff to manage and monitor patient check-ins using 
 ## 📂 Repositories & Source Code
 
 🔹 **Main Desktop App (Delphi)**  
-👉 [Reception App (Delphi + WebSocket + REST API)](https://github.com/pahangdar/ConnexallApplication/tree/api-integration)
+👉 [Reception App (Delphi)](https://github.com/pahangdar/ConnexallApplication/tree/api-integration)
 
 🔹 **WebSocket Server**  
 👉 [KioskCare WebSocket Server (Node.js)](https://github.com/pahangdar/ConnexallWebSocketServer)
@@ -34,12 +34,12 @@ This system allows hospital staff to manage and monitor patient check-ins using 
 👉 [Kiosk App (React + WebSocket)](https://github.com/pahangdar/ConnexallVerificationApp)
 
 🔹 **RESTful API (PostgreSQL)**  
-👉 [Backend API (Node.js + Express + PostgreSQL)](https://github.com/pahangdar/ConnexallWebAPI/tree/postgres)
+👉 [Backend API (C# + ASP.NET Core)](https://github.com/pahangdar/ConnexallWebAPI/tree/postgres)
 
 🔹 **AI Natural Language Service**  
 👉 [AI Chat Query Service](https://github.com/pahangdar/ConnexallNL2SQL)
 
-🔹 *(Optional)* **GraphQL Endpoint (Prototype)**  
+🔹 **GraphQL Endpoint (Prototype)**  
 👉 [GraphQL Advanced Search Service]()
 
 ---
