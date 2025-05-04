@@ -58,7 +58,6 @@ This system allows hospital staff to manage and monitor patient check-ins using 
 📸 **System Architecture Diagram**  
 ![Architecture Diagram]()
 
-> *(Or replace with an actual image from your repo if hosted inside `/docs/` folder)*
 
 ---
 
