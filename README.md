@@ -25,19 +25,19 @@ This system allows hospital staff to manage and monitor patient check-ins using 
 ## 📂 Repositories & Source Code
 
 🔹 **Main Desktop App (Delphi)**  
-👉 [Reception App (Delphi)](https://github.com/pahangdar/ConnexallApplication/tree/api-integration)
+👉 [Reception App (Delphi)](https://github.com/pahangdar/kiosk-care-desktop-delphi/tree/api-integration)
 
-🔹 **WebSocket Server**  
-👉 [KioskCare WebSocket Server (Node.js)](https://github.com/pahangdar/ConnexallWebSocketServer)
+🔹 **WebSocket Server (Node.js)**  
+👉 [WebSocket Server (Node.js)](https://github.com/pahangdar/kiosk-care-websocket-server-node.git)
 
-🔹 **React Kiosk App**  
-👉 [Kiosk App (React + WebSocket)](https://github.com/pahangdar/ConnexallVerificationApp)
+🔹 **Kiosk Client App (React)**  
+👉 [Kiosk Verification App (React + WebSocket)](https://github.com/pahangdar/kiosk-care-kiosk-client-react.git)
 
-🔹 **RESTful API (PostgreSQL)**  
-👉 [Backend API (C# + ASP.NET Core)](https://github.com/pahangdar/ConnexallWebAPI/tree/postgres)
+🔹 **RESTful API (.NET Core)**  
+👉 [Backend API (C# + ASP.NET Core)](https://github.com/pahangdar/kiosk-care-api-server-dotnet/tree/postgres)
 
 🔹 **AI Natural Language Service**  
-👉 [AI Chat Query Service](https://github.com/pahangdar/ConnexallNL2SQL)
+👉 [AI Chat Query Service](https://github.com/pahangdar/kiosk-care-ai-nl2sql-node.git)
 
 🔹 **GraphQL Endpoint (Prototype)**  
 👉 [GraphQL Advanced Search Service]()
