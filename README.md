@@ -89,6 +89,8 @@ This system allows hospital staff to manage and monitor patient check-ins using 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pahangdar)  
 or send questions via GitHub Issues in any of the linked repositories.
+🎬 **My YouTube Channel**  
+📺 [Watch on YouTube](https://www.youtube.com/@WhatIveBuiltSaeidsDevPortfolio/playlists)
 
 ---
 
